@@ -2,7 +2,7 @@ class RainDrop {
   //class variables
   float x = random(width);
   float y = random(height);
-  int green = int(random(151, 191));
+  int green = int(random(130, 191));
   int blue = int(random(210, 255));
   
   public float diameter = 0;
